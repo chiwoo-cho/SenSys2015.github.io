@@ -1,0 +1,1 @@
+rsync -avz -e ssh _site/ cocteau@turing.acm.org:/home/cocteau/sensys/2014/

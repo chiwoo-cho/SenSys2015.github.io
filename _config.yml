@@ -1,0 +1,37 @@
+# Site settings
+title: SenSys 2015
+admin_name: NCLab
+email: sangwon@nclab.kaist.ac.kr
+description: "SenSys is the leading conference for research on systems of networked sensing and actuation."
+# baseurl: "/2014"
+# url: "http://sensys.acm.org/2014/"
+username: SenSys2015
+location: Seoul, South Korea
+dates: November ?, 2015
+
+links:
+    -   title: About
+        url: /about/
+    -   title: CFP
+        url: /cfp/
+    -   title: Organization
+        url: /people/
+    -   title: Registration
+        url: /registration/
+    -   title: Venue
+        url: /venue/
+    -   title: Program
+        url: /program/
+    -   title: Posters/Demos
+        url: /demos/
+    -   title: Workshops
+        url: /workshops/
+    -   title: DC
+        url: /dc/
+    -   title: Sponsors
+        url: /sponsors/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments

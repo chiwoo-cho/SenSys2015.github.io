@@ -1,0 +1,87 @@
+- title: Dynamic Power Management for Long-Term Energy Neutral Operation of Solar Energy Harvesting Systems
+  authors: Bernhard Buchli, Felix Sutton, Jan Beutel, Lothar Thiele
+  affiliation: ETH Zurich
+  
+- title: "ZiSense: Towards Interference Resilient Duty Cycling in Wireless Sensor Networks"
+  authors: Xiaolong Zheng, Zhichao Cao, Jiliang Wang, Yuan He, Yunhao Liu
+  affiliation: HKUST, Tsinghua University
+  
+- title: "From Rateless to Distanceless: Enabling Sparse Sensor Network Deployment in Large Areas"
+  authors: Wan Du, Zhenjiang Li, Jansen Christian Liando, Mo Li
+  affiliation: Nanyang Technological University, Singapore
+  
+- title: "Ekho: Realistic and Repeatable Experimentation for Tiny Energy-Harvesting Sensors"
+  authors: Josiah Hester, Timothy Scott, Jacob Sorber
+  affiliation: Clemson University
+  
+- title: "Opo: Infrastructure Free Human Contact Sensing"
+  authors: William Huang, Ye-Sheng Kuo, Patrick Pannuto, Prabal Dutta
+  affiliation: University of Michigan
+  
+- title: "Privacy.Tag: Privacy Concern Expressed and Respected"
+  authors: Cheng Bo, Guobin Shen, Jie Liu, Xiang-Yang Li, YongGuang Zhang, Feng Zhao
+  affiliation: Illinois Institute of Technology, Microsoft Research Asia
+  
+- title: "GruMon: Fast and Accurate Group Monitoring for Heterogeneous Urban Spaces"
+  authors: Rijurekha Sen, Youngki Lee, Kasthuri Jayarajah, Archan Misra, Rajesh Krishna Balan
+  affiliation: Singapore Management University
+  
+- title: "RushNet: Practical Traffic Prioritization for Saturated Wireless Sensor Networks"
+  authors: Chieh-Jan Mike Liang, Kaifei Chen, Nissanka Bodhi Priyantha, Jie Liu, Feng Zhao
+  affiliation: Microsoft Research, UC Berkeley
+  
+- title: Accurate Real-Time Relative Localization Using Single-Frequency GPS
+  authors: Will Hedgecock, Miklos Maroti, Akos Ledeczi, Peter Volgyesi, Rueben Banalagay
+  affiliation: Vanderbilt University
+  
+- title: Using Mobile Phone Barometer for Low-Power Transportation Context Detection
+  authors: Kartik Sankaran, Minhui Zhu, Xiangfa Guo, Akkihebbal L. Ananda, Mun Choon Chan, Li-Shiuan Peh
+  affiliation: National University of Singapore, Massachusetts Institute of Technology
+  
+- title: Feasibility and Limits of Wi-Fi Imaging
+  authors: Donny Huang, Rajalakshmi Nandakumar, Shyamnath Gollakota
+  affiliation: University of Washington
+
+- title: "iLocScan: Harnessing Multipath for Simultaneous Indoor Source Localization and Space Scanning"
+  authors: Chi Zhang, Feng Li, Jun Luo, Ying He
+  affiliation: Nanyang Technological University
+  
+- title: "AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone"
+  authors: Yun Cheng, Xiucheng Li, Zhijun Li, Shouxu Jiang, Yilong Li, Ji Jia, Xiaofan Jiang
+  affiliation: Harbin Institute of Technology, Air Scientific
+  
+- title: A Semi-Supervised Learning Approach for Robust Indoor-Outdoor Detection with Smartphones
+  authors: Valentin Radu, Panagiota Katsikouli, Rik Sarkar, Mahesh K. Marina
+  affiliation: University of Edinburgh
+  
+# - title: "TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks"
+#  authors: Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, Patrick Eugster
+#  affiliation: Purdue University
+
+- title: "NEAT: A Novel Energy Analysis Toolkit for Free-Roaming Smartphones"
+  authors: Niels Brouwers, Marco Zuniga, Koen Langendoen
+  affiliation: Delft University of Technology
+  
+- title: Mining Users’ Signiﬁcant Driving Routes with Low-power Sensors
+  authors: Sarfraz Nawaz, Cecilia Mascolo
+  affiliation: University of Cambridge
+  
+- title: "DSP.Ear: Leveraging Co-Processor Support for Continuous Audio Sensing on Smartphones"
+  authors: Petko Georgiev, Nicholas D. Lane, Kiran K. Rachuri, Cecilia Mascolo
+  affiliation: University of Cambridge, Microsoft Research, Samsung Research America
+
+- title: "CarLog: A Platform for Flexible and Efficient Automotive Sensing"
+  authors: Yurong Jiang, Hang Qiu, Matthew McCartney, Fan Bai, Donald Grimm, Ramesh Govindan
+  affiliation: University of Southern California, General Motors Global R&D
+  
+- title: "Kinesis: A Security Incident Response and Prevention System for Wireless Sensor Networks"
+  authors: Salmin Sultana, Daniele Midi, Elisa Bertino
+  affiliation: Purdue University
+  
+- title: "MobyDick: An Interactive Multi-swimmer Exergame"
+  authors: Woohyeok Choi, Jeungmin Oh, Taiwoo Park, Sungjun Kang, Miri Moon, Uichin Lee, Inseok Hwang, Junehwa Song
+  affiliation: KAIST, Michigan State University, IBM Research Austin
+
+- title: Team-level Programming of Drone Sensor Networks
+  authors: Luca Mottola, Mattia Moretta, Kamin Whitehouse, Carlo Ghezzi
+  affiliation: Politecnico di Milano, SICS Swedish ICT, University of Virginia

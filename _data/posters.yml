@@ -1,0 +1,63 @@
+- title: Yottos Operating System - Connecting Low-power Devices with High-level Programming
+  authors: Marcus Chang, James Crosby and Hugo Vincent
+  affiliation: IoT R&D and ARM LTD
+  
+- title: Facilitating Continued Run of Sensor Data Analytics Services Using User Driven Proactive Memory Reclamation Scheme
+  authors: Swarnava Dey, Anupam Basu, Arijit Mukherjee, Pubali Datta and Himadri Sekhar Paul
+  affiliation: Innovation Labs Kolkata, Tata Consultancy Services, and IIT Kharagpur
+  
+- title: Hybrid Underwater Environmental Monitoring
+  authors: Christian Renner, Benjamin Meyer, Daniel Bimschas, Sebastian Ebers, Thomas Tosik, Ammar Amory, Alexander Gabrecht, Erik Maehle and Stefan Fischer
+  affiliation: Universität at zu Lübeck
+  
+- title: Automatic Configuration of Controlled Interference Experiments in Sensornet Testbeds
+  authors: Felix Jonathan Oppermann, Carlo Alberto Boano, Marco Zimmerling and Kay Römer
+  affiliation: Graz University of Technology and ETH Zurich
+  
+- title: A Framework for MGC Applications
+  authors: Laurynas Riliskis and Philip Levis
+  affiliation: Stanford University
+  
+- title: "VeLoc: Finding Your Car in the Parking Lot"
+  authors: Mingmin Zhao, Ruipeng Gao, Jiaxu Zhu, Tao Ye, Fan Ye, Yizhou Wang, Kaigui Bian, Guojie Luo and Ming Zhang
+  affiliation: Peking University
+  
+- title: Controlled Sensor Network Installation with Unmanned Aerial Vehicles
+  authors: David Anthony, John-Paul Ore and Carrick Detweiler
+  affiliation: University of Nebraska - Lincoln
+  
+- title: Person Identification from Arbitrary Position and Posture using Kinect
+  authors: Ramu Reddy Vempada, Tanushyam Chattopadhyay, Kingshuk Chakravarty and Aniruddha Sinha
+  affiliation: TCS Innovation Labs
+ 
+# - title: Determine Wind Direction on Smartphones
+#  authors: Xiaohui Wang
+#  affiliation: Zhejiang University Hangzhou
+  
+- title: A Modular Architecture for Miniature Capsule Robots Based on TinyOS
+  authors: Addisu Taddese, Marco Becanni, Ekawahyu Susilo, Péter Völgyesi, Ákos Lédeczi and Pietro Valdastri
+  affiliation: Vanderbilt University 
+ 
+- title: A Networked Embedded System Platform for the Post-Mote Era
+  authors: Pat Pannuto, Michael Andersen, Tom Bauer, Bradford Campbell, Amit Levy, David Culler, Phillip Levis and Prabal Dutta
+  affiliation: University of Michigan, University of California Berkeley, and Stanford University
+  
+- title: Robust Time Synchronization in Wireless Sensor Networks Using Real Time Clock
+  authors: Hessam Mohammadmoradi, Omprakash Gnawali, Nir Rattner, Alex Szalay and Andreas Terzis
+  affiliation: University of Houston and Johns Hopkins University
+  
+- title: A Multimodal Data Set for Evaluating Continuous Authentication Performance in Smartphones
+  authors: Qing Yang, Ge Peng, David T. Nguyen, Xin Qi, Gang Zhou, Zdenka Sitova, Paolo Gasti and Kiran S. Balagani
+  affiliation: College of William and Mary and New York Institute of Technology
+  
+- title: "Mobile Contents on the Big Screen: Adaptive Frame Filtering for Mobile Device Screen Sharing"
+  authors: Jisu Ha, Puleum Bae, Keun-Woo Lim, Jeonggil Ko and Young-Bae Ko
+  affiliation: Ajou University and Electronics and Telecommunications Research Institute
+  
+- title: Understanding Radio Activity Signature of Wireless Sensor Network Protocols
+  authors: Dong Han, Omprakash Gnawali and Abhishek Sharma
+  affiliation: University of Houston and NEC Laboratories America, Inc
+  
+- title: Automated Metadata Transformation for A-Priori Deployed Sensor Networks
+  authors: Arka Bhattacharya, David Culler, Dezhi Hong, Kamin Whitehouse and Jorge Ortiz
+  affiliation: University of California Berkeley, University of Virginia, and IBM TJ Watson Research Center
