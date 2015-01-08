@@ -4,12 +4,9 @@ title: Venue
 permalink: /venue/
 ---
 
-[Memphis Convention Center](http://www.cpmemphishotel.com/lp-memphis-cook-convention-center/) 
+[CENTER](http://www.cpmemphishotel.com/lp-memphis-cook-convention-center/) 
   
-	255 North Main Street 
-	Memphis, TN 38103 
-	(901) 576-1200
-	
+	ADDRESS
 
 <img src="../resources/images/cookconvention.png" alt="Memphis Cook Convention Center" class="img-rounded"/>
 
@@ -28,9 +25,7 @@ Reserve your hotel on our group rate by October 3, 2014. Even after the deadline
 <a href="http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=3951">Sheraton Memphis Downtown Hotel</a>
 
 
-	250 North Main Street
-	Memphis, Tennessee 38103
-	(901) 527-7300
+	ADDRESS
       
       
 <img src="../resources/images/sheraton.png" alt="sheraton hotel" class="img-rounded"/>
